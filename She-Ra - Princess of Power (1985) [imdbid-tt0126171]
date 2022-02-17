@@ -1,0 +1,10 @@
+Must Contain:
+  /\b(DVD|DVDRip)(\b|\d)/i
+
+Must Not Contain:
+  /\b(nf|netflix)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)/i
+  /\b2018(\b|\d)/i
+  
+Preferred:
+  Term: /\b1985(\b|\d)/i
+    Score: 1000
