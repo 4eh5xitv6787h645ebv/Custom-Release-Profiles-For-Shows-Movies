@@ -8,3 +8,5 @@ Must Not Contain:
 Preferred:
   Term: /\b1985(\b|\d)/i
     Score: 1000
+Tags:
+  she-ra1985
