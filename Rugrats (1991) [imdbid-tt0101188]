@@ -1,0 +1,9 @@
+Must Not Contain:
+  /\b2021(\b|\d)/i
+
+Preferred:
+  Term: /(1991)\b/i
+    Score: 50
+    
+Tags:
+  rugrats-1991
